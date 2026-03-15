@@ -6,6 +6,9 @@ __pycache__/
 *.pyc
 *.pyo
 
+# DE_2026.pdf
+DE_2026.pdf
+
 # Environment
 .env
 venv/
