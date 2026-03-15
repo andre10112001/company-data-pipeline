@@ -1,0 +1,18 @@
+# Output files
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (too large for GitHub)
+data/
