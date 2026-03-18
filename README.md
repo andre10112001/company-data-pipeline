@@ -5,6 +5,7 @@
 > analysis-ready Parquet files.
 
 ---
+**GitHub Repository: [company-data-pipeline](https://github.com/andre10112001/company-data-pipeline)**
 
 ## Table of Contents
 
@@ -106,8 +107,7 @@ The relational schema is designed to store the data from both JSON files
 in a normalised, queryable structure. Designed around minimising redundancy
 and enabling efficient querying — not storing every available field.
 
-📎 **[View the full ERD and schema diagram here →](https://dbdiagram.io)**
-*(Paste the code from `schema.dbml` into dbdiagram.io to render the diagram)*
+📎  **[View the full ERD and schema diagram here](schema.pdf)**
 
 ### Tables
 
